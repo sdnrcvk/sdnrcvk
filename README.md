@@ -9,7 +9,7 @@
     I am trying to improve myself in related to web projects.
   <ul>
       <li>🔭 I’m currently working on 
-          <a href="https://github.com/sdnrcvk/ReCapProject">ReCapProject</a> / <a href="https://github.com/sdnrcvk/Kamp-Frontend">Kamp-Frontend</a>.
+          <a href="https://github.com/sdnrcvk/ReCapProject">ReCapProject</a> / <a href="https://github.com/sdnrcvk/ReCapProject-Frontend">ReCapProject-Frontend</a>. / <a href="https://github.com/sdnrcvk/Kamp-Frontend">Kamp-Frontend</a>.
       </li>
       <li>🌱 I’m currently learning C#.</li>
       <li>Contact with me via...
