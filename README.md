@@ -8,8 +8,7 @@
     I'm Sedanur.I'm studying Computer Engineering.
     I am trying to improve myself in related to web projects.
   <ul>
-      <li>🔭 I’m currently working on 
-          <a href="https://github.com/sdnrcvk/JavaCampProject">JavaCampProject</a> / <a href="https://github.com/sdnrcvk/ReCapProject-Frontend">ReCapProject-Frontend</a> / <a href="https://github.com/sdnrcvk/MvcProje">MvcProje</a>.
+      <li>🔭 I’m currently working on .....
       </li>
       <li>🌱 I’m currently learning C#.</li>
       <li>Contact with me via...
