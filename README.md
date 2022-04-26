@@ -28,7 +28,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code> <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" /> </code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/java-22-225997.png" alt="Java"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" alt="PHP"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png" alt="vscode"/></code>
