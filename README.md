@@ -8,9 +8,9 @@
     I'm Sedanur.I'm studying Computer Engineering.
     I am trying to improve myself in related to web projects.
   <ul>
-      <li>🔭 I’m currently working on .....
+      <li>🔭 I’m currently working on Senior Project.
       </li>
-      <li>🌱 I’m currently learning C#.</li>
+      <li>🌱 I’m currently learning ReactJS.</li>
       <li>Contact with me via...
        <p>
        <a href="https://www.linkedin.com/in/sedanurcevik/" target="_blank" rel="nofollow"><img alt="Sedanur's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" /></a>
