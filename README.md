@@ -13,7 +13,7 @@
       <li>🌱 I’m currently learning ReactJS.</li>
       <li>Contact with me via...
        <p>
-       <a href="https://www.linkedin.com/in/sedanurcevik/" target="_blank" rel="nofollow"><img alt="Sedanur's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" /></a>
+       <a href="https://www.linkedin.com/in/sdnrcvk/" target="_blank" rel="nofollow"><img alt="Sedanur's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" /></a>
        </p>
      </li>  
    </ul>
