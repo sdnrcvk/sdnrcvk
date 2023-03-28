@@ -6,11 +6,17 @@
 
 ###
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sdnrcvk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sdnrcvk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="160" alt="languages graph" />
+ </p>
+ 
+###
+
 <h2 align="left">About me</h2>
 
 ###
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sdnrcvk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="160" alt="stats graph" align="right" />
 
 - 🔭 I’m currently working on **Next.js and Laravel**
 
@@ -19,8 +25,6 @@
 - 👯 I’m looking to collaborate on **React and Angular Projects**
 
 - 🤝 I’m looking for help with **Laravel**
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sdnrcvk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="160" alt="languages graph" align="right" />
 
 - 🌍 My website www.sedanurcevik.com
 
@@ -31,8 +35,6 @@
 - 📫 Contact with me via <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
 
 - 📄 Know about my experiences <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
-
-
 
 ###
 
