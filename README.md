@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Sedanur. I am studying Computer Engineering and I am interested in web projects. By sharing my prominent projects on my profile, I would like to show which technologies I am working on and how I have developed myself.</p>
+<p align="left">I'm Sedanur. I just graduated from Computer Engineering. I am interested in web projects. By sharing my prominent projects on my profile, I would like to show which technologies I am working on and how I have developed myself..</p>
 
 ###
 
@@ -18,19 +18,21 @@
 ###
 
 
-- 🔭 I’m currently working on **Next.js and Laravel**
+- 🔭 I’m currently working on **Next.js, Laravel, .Net**
 
-- 🌱 I’m currently learning **Laravel**
+- 🎒 I am currently studying at **Sipay .Net Bootcamp**
 
-- 👯 I’m looking to collaborate on **React and Angular Projects**
+- 🌱 I’m currently learning **.Net**
 
-- 🤝 I’m looking for help with **Laravel**
+- 👯 I’m looking to collaborate on **React Projects**
+
+- 🤝 I’m looking for help with **Laravel and .Net**
 
 - 🌍 My website www.sedanurcevik.com
 
 - 📝 I regularly write articles on  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="32" height="20" alt="medium logo"  />
 
-- 💬 Ask me about **React, Angular**
+- 💬 Ask me about **React**
 
 - 📫 Contact with me via <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
 
