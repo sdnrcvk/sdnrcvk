@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on **Next.js, Laravel, .Net**
 
-- 🎒 I am currently studying at ...
+- 🎒 I am currently studying at **...**
 
 - 🌱 I’m currently learning **.Net**
 
@@ -30,13 +30,14 @@
 
 - 🌍 My website www.sedanurcevik.com
 
-- 📝 I regularly write articles on  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="32" height="20" alt="medium logo"  />
+- 📝 I write articles on  <a href="https://medium.com/@sdnrcvk"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="32" height="20" alt="medium logo"  /></a>
 
 - 💬 Ask me about **React**
 
-- 📫 Contact with me via <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
+- 📫 Contact with me via <a href="sdnrcvk@gmail.com">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  /></a>
 
-- 📄 Know about my experiences <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/sedanurcevik/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo" /></a>
 
 ###
 
