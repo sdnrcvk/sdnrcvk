@@ -34,7 +34,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 Contact with me via <a href="sdnrcvk@gmail.com">
+- 📫 Contact with me via <a href="mailto:sdnrcvk@gmail.com">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  /></a>
 
 - 📄 Know about my experiences <a href="https://www.linkedin.com/in/sedanurcevik/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo" /></a>
