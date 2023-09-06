@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on **Next.js, Laravel, .Net**
 
-- 🎒 I am currently studying at **Sipay .Net Bootcamp**
+- 🎒 I am currently studying at ...
 
 - 🌱 I’m currently learning **.Net**
 
