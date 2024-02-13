@@ -1,20 +1,15 @@
 # <div align="center">Hi 👋, I'm Sedanur Çevik </div>  
   
-
 ### <div align="center">Jr. Software Developer | Computer Engineer 👨‍💻 </div>  
   
-
+I am Sedanur. I am an enthusiastic computer engineer who is always open to work and development. I am interested in frontend and backend development areas. I would like to show which technologies I am working on and how I am developing by sharing my prominent projects on my profile.  
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdnrcvk&label=Profile%20views&color=0e75b6&style=flat" alt="sdnrcvk" /> </p>  
+  
 <div align="right">
 <img src="https://github.com/sdnrcvk/sdnrcvk/assets/58807892/d487d7a3-3651-42fb-b185-eef9eed32965" align="right" height="" width="500" />
 </div>  
   
-
-I am Sedanur. I am an enthusiastic computer engineer who is always open to work and development. I am interested in frontend and backend development areas. I would like to show which technologies I am working on and how I am developing by sharing my prominent projects on my profile.  
-  
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdnrcvk&label=Profile%20views&color=0e75b6&style=flat" alt="sdnrcvk" /> </p>  
-  
-
 - 🔭 I’m currently working on **Next.js, Laravel, .Net**  
   
 
