@@ -22,9 +22,6 @@ I am Sedanur. I am an enthusiastic computer engineer who is always open to work 
 - 🤝 I’m looking for help with **Laravel and .Net**  
   
 
-- 🌍 My website www.sedanurcevik.com  
-  
-
 - 📝 I write articles on  <a href="https://medium.com/@sdnrcvk"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="32" height="20" alt="medium logo"  /></a>  
   
 
